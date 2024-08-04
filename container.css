@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+.navbar {
+    height: 100px;
+    background-color: brown;
+}
+
+.post-area {
+    width: 80%;
+    height: 1000px;
+    background-color: bisque;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 2px 3px 3px 3px rgb(110, 110, 110);
+}
